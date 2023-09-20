@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reily Haag</h1>
 <h3 align="center">I'm an aspiring product manager looking to channel my experience as a startup leader and product strategist into a new project.</h3>
 
-- 🔭 I’m actively seeking roles in **product management** where I can leverage my startup experience to add value and build exceptional products.
+- 🔭 I’m actively seeking roles in **product management** where I can use my startup experience to add value and build exceptional products.
 
 - 🌱 I’m currently learning **SQL, Unity, Digital Marketing**
 
