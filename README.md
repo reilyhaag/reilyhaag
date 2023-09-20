@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **SQL, Unity, Digital Marketing**
 
+- ⚡ I'm currently working to master **Surfing and Archery**
+
 - 📝 I regularly write articles on [https://themultidisciplined.beehiiv.com/](https://themultidisciplined.beehiiv.com/)
 
 - 💬 Ask me about **Startups, Python, Artifcial Intelligence**
