@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Reily Haag</h1>
-<h3 align="center">I'm an aspiring product manager</h3>
+<h3 align="center">I'm an aspiring product manager looking to channel my experience as a startup leader and product strategist into a new project.</h3>
 
-- 🔭 I’m currently looking for roles in **Product Management**
+- 🔭 I’m actively seeking roles in **product management** where I can leverage my entrepreneurial experience to add value and build exceptional products.
 
 - 🌱 I’m currently learning **SQL, Unity, Digital Marketing**
 
-- ⚡ I'm currently working to master **Surfing and Archery**
+- ⚡ In my free time I'm working to master **Surfing and Archery**
 
 - 📝 I regularly write articles on [https://themultidisciplined.beehiiv.com/](https://themultidisciplined.beehiiv.com/)
 
-- 💬 Ask me about **Startups, Python, Artifcial Intelligence**
+- 💬 Let's chat about **Startups, Art, Artificial Intelligence**
 
-- 📫 How to reach me **reily@reilyhaag.com**
+- 📫 Reach out to me at **reily@reilyhaag.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
