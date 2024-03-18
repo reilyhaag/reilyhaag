@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reily Haag</h1>
-<h3 align="center">I'm an aspiring product manager looking to channel my experience as a startup leader into a new project.</h3>
-
-- 🔭 I’m actively seeking roles in **product management** where I can use my startup experience to add value and build exceptional products.
 
 - 🌱 I’m currently learning **SQL, Unity, Digital Marketing**
 
 - ⚡ In my free time I'm working to master **Surfing and Archery**
-
-- 📝 I regularly write articles on [https://themultidisciplined.beehiiv.com/](https://themultidisciplined.beehiiv.com/)
 
 - 💬 Let's chat about **Startups, Art, Artificial Intelligence**
 
