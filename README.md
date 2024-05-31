@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reily Haag</h1>
 
-- 🌱 I’m currently learning **SQL, Unity, Digital Marketing**
-
-- ⚡ In my free time I'm working to master **Surfing and Archery**
-
 - 💬 Let's chat about **Startups, Art, Artificial Intelligence**
 
 - 📫 Reach out to me at **reily@reilyhaag.com**
